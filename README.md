@@ -12,7 +12,6 @@ Build a full stack JavaScript app that is functionally similar to this: https://
 
 * User Story: If it does not contain a date or Unix timestamp, it returns null for those properties.
 
-
 ## Result
 
 You can view the live version the app on: https://ajibs-timestamp.herokuapp.com/
